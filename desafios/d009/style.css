@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font: normal 16pt Arial;
+    background-color: rgb(25, 24, 24);
+    color: white;
+}
+img {
+    width: 300px;
+}
+img.voltar {
+    width: 70px;
+}
